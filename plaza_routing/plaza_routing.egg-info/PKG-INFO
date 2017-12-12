@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: plaza-routing
+Version: 0.0.1
+Summary: Plaza routing service for plazaroute
+Home-page: https://github.com/PlazaRoute/plazaroute
+Author: Jonas Matter, Robin Suter
+Author-email: robin@robinsuter.ch
+License: MIT License
+Description-Content-Type: UNKNOWN
+Description: # Plaza Routing
+        
+        This is the backend service for [plazaroute](https://github.com/PlazaRoute/plazaroute), exposing a HTTPS API for the QGIS-Plugin.
+Platform: UNKNOWN
